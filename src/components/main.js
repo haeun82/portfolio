@@ -4,7 +4,7 @@ import styled from 'styled-components';
     max-width: 100%;
     max-height: 700px;
   `;
-function main(props) {
+function Main(props) {
   return (
     <TopWrapper>
       <h1>HAEUN PORTFOLIO</h1>
@@ -12,4 +12,4 @@ function main(props) {
   );
 }
 
-export default main;
+export default Main;
